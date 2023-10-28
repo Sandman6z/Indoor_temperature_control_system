@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+\\Pcshare\套件资料\14-恒温箱\144-液晶恒温箱\1-程序\水温.uvproj
+Project File Date:  07/17/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+Program Size: data=21.2 xdata=0 code=2082
+creating hex file from "水温"...
+"水温" - 0 Error(s), 0 Warning(s).
